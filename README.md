@@ -9,3 +9,6 @@ Run ocr_finder_screenshots.py
 ```
 $ python ocr_finder_screenshots.py word language path_to_images
 ```
+
+# Update March 2023 
+Organization by keywords, create the folder of images of each keyword. 
