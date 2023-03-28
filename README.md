@@ -12,3 +12,12 @@ $ python ocr_finder_screenshots.py word language path_to_images
 
 # Update March 2023 
 Organization by keywords, create the folder of images of each keyword. 
+
+# How does it work? 
+![image](https://user-images.githubusercontent.com/14224692/228294774-cc2f5722-c828-40ce-9121-4d541da88a87.png)
+
+
+
+
+
+
