@@ -16,7 +16,7 @@ Organization by keywords, create the folder of images of each keyword.
 # How does it work? 
 ![image](https://user-images.githubusercontent.com/14224692/228294774-cc2f5722-c828-40ce-9121-4d541da88a87.png)
 
-# Update March 2023 
+# Update June 2023 
 Time and accuracy. 
 
 1)I used EasyOCR engine for inference, no additional image processing. The extracted text are quite accurately. It's imressive! 
