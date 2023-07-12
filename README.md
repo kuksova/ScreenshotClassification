@@ -26,6 +26,8 @@ But at least this is should be done only once. Then I need search for images in 
 2)I used pytesseract for inference. It works so badly for my images! I knew that it works when to preprocess the image to get the foreground text in black with the background in white.
 But my images can't be processed like this. But inference time is impressive (9 sec/ 7 images). 
 
+3) PaddleOCR is a solution! Speed, quality!
+
 Conclusions: So I will keep with CRAFT algorithms and easyOCR + GPUs.  
       
 
