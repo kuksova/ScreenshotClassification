@@ -1,4 +1,4 @@
-# ScreenshotFinderbyText
+# ScreenshotClassification
 Screenshot Finder by Text (SFT) is an efficient utility for finding screenshots that contain specific text is using EasyOCR library. 
 
 SFT takes word, language and path to the folder with screenshots as input and returns all find screenshots with the found text highlighted and .csv file with name of found screenshots. 
